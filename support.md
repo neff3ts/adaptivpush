@@ -18,6 +18,12 @@ deiner privaten iCloud. Der Entwickler hat auf beides keinen Zugriff.
 *Profil* → Karte *Was dein Gerät verlassen darf* → *Als CSV exportieren*
 oder *Als JSON exportieren*.
 
+**Wie lösche ich alle meine Trainingsdaten?**
+*Profil* → ganz unten *Alle Trainingsdaten löschen*. Das entfernt den
+Verlauf auf dem iPhone und, wenn der Abgleich an ist, in deiner iCloud.
+Gespendete Daten kannst du dabei mitlöschen. Exportiere vorher, was du
+behalten willst.
+
 **Wie lösche ich gespendete Daten?**
 *Profil* → Karte *Was dein Gerät verlassen darf* → *Gespendete Daten
 löschen*.

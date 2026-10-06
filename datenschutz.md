@@ -181,8 +181,11 @@ der Entwickler für die Auswertung, kein anderer Nutzer.
 ## Daten löschen
 
 Dein Trainingsverlauf liegt auf deinem Gerät und — wenn du den Abgleich
-eingeschaltet hast — in deiner privaten iCloud. Löschst du die App, ist er
-vom Gerät entfernt; was in iCloud liegt, löschst du in den
+eingeschaltet hast — in deiner privaten iCloud. Unter *Profil* →
+*Alle Trainingsdaten löschen* entfernst du ihn auf einmal, vom Gerät und
+bei eingeschaltetem Abgleich auch aus deiner iCloud; im selben Schritt
+kannst du gespendete Daten mitlöschen. Löschst du nur die App, ist der
+Verlauf vom Gerät entfernt; was in iCloud liegt, löschst du dann in den
 iCloud-Einstellungen deines iPhones. Vorher kannst du den vollständigen
 Verlauf unter *Profil* in der Karte *Was dein Gerät verlassen darf* als
 CSV oder JSON exportieren.
@@ -192,8 +195,7 @@ Person zuordnen, sie lässt sich deshalb auch nicht gezielt für dich löschen
 (Art. 11 DSGVO). Ausschalten beendet das Senden.
 
 Gespendete Sätze löschst du in der App mit *Gespendete Daten löschen*;
-nach drei Jahren löscht der Server sie ohnehin.
-Ohne die Spender-ID auf deinem Gerät — etwa nachdem du die App gelöscht
+nach drei Jahren löscht der Server sie ohnehin. Ohne die Spender-ID auf deinem Gerät — etwa nachdem du die App gelöscht
 hast — lassen sie sich dir nicht mehr zuordnen.
 
 ## Kein Tracking
